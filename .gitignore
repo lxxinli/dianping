@@ -1,0 +1,41 @@
+# --- 通用开发环境文件 ---
+*.iml
+.idea/
+*.ipr
+*.iws
+*.ids
+*.orig
+*.log
+*.bak
+*.tmp
+
+# --- Java 编译文件 ---
+*.class
+*.jar
+*.war
+*.ear
+out/
+target/
+build/
+bin/
+.gradle/
+
+# --- IDE 配置文件 ---
+.settings/
+.vscode/
+.classpath
+.project
+.factorypath
+
+# --- 系统文件 ---
+.DS_Store
+Thumbs.db
+
+# --- 测试/临时文件 ---
+*.log
+test-output/
+logs/
+
+
+
+
